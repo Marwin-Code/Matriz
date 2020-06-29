@@ -1,0 +1,11 @@
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.csprojAssemblyReference.cache
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.frmMatriz.resources
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.Properties.Resources.resources
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.csproj.GenerateResource.cache
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.csproj.CoreCompileInputs.cache
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\bin\Debug\ExamenBanTrab.exe.config
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\bin\Debug\ExamenBanTrab.exe
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\bin\Debug\ExamenBanTrab.pdb
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.exe
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.pdb
+C:\Users\Marwin\Documents\CVMarwinVasquez\Busqueda\Bantrab\ExamenBanTrab\obj\Debug\ExamenBanTrab.frmMatrizOperaciones.resources
